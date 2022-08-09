@@ -23,7 +23,7 @@
             "equals": "Microsoft.Compute/virtualMachines"
           },
           {
-            "field": "nam",
+            "field": "name",
             "equals": "VM1*"
           },
           {
